@@ -3,7 +3,7 @@ from openai import OpenAI
 # -------------------------------
 # 1️⃣ Python part (Setup)
 # -------------------------------
-client = OpenAI(api_key="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")
+#client = OpenAI(api_key="")
 
 # -------------------------------
 # 2️⃣ DevOps data (Logs)
